@@ -3,7 +3,7 @@
 
 #include "Arduino.h"
 
-#define MAX_POWER 100 // Number from 1-255
+#define MAX_POWER 125 // Number from 1-255
 
 class MotorDriver {
 private:
